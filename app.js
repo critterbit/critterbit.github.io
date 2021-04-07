@@ -1,4 +1,4 @@
-//import * as THREE from './threejs/build/three.module.js';
+import * as THREE from './threejs/build/three.module.js';
 import { OrbitControls } from './three/jsm/OrbitControls.js';
 
 class App{
