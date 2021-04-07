@@ -1,6 +1,8 @@
 import * as THREE from './threejs/build/three.module.js';
 import { OrbitControls } from './three/jsm/OrbitControls.js';
 
+let moop = 2
+
 class App{
 	constructor(){
 		const container = document.createElement( 'div' );
